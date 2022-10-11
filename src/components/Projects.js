@@ -39,7 +39,7 @@ const Projects = () => {
                         each part is trackable and can be traced back to the manufacturer. Along with receiving the product, the consumer can also rate the product.
                     </p>
 
-                    <a href="https://blocktec.us/" target="_blank" className="button">Site</a>
+                    <a href="https://lively-block-9148.on.fleek.co/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/Trent122/supply-chain-Dapp/tree/main/supply-chain-tutorial/supply-chain-tutorial" target="_blank" className="button">Code</a>
                 </div>
             </div>
